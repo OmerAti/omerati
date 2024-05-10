@@ -1,5 +1,5 @@
 ![JRodix.Com](https://www.jrodix.com/resources/uploads/logo/2024-04-20/jrodix-com-ircd-hosting-web-hosting-vds-sunucu-kiralama-yazilim-cozumleri.png)
-![Wordpress](https://www.ubilisim.com/wp-content/uploads/2018/04/wordpress-logo.png)
+<img src="https://www.ubilisim.com/wp-content/uploads/2018/04/wordpress-logo.png" alt="Profil Resmi" width="100" height="100">
 
 
 # Merhaba, GitHub Profilime Hoş Geldiniz! 👋
