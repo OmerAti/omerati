@@ -35,5 +35,4 @@ Ben Ömer, yazılım geliştirme ve sistem yönetimiyle ilgilenen bir programcı
 
 ## İletişim
 - 📧 E-posta: omerati6363@gmail.com veya info@jrodix.com
-- 💬 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/username/)
 - 🌐 Web Sitesi: [Website Adresi](https://www.jrodix.com)
