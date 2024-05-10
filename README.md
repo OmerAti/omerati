@@ -1,16 +1,34 @@
-### Hi there 👋
+![JRodix.Com](https://www.jrodix.com/resources/uploads/logo/2024-04-20/jrodix-com-ircd-hosting-web-hosting-vds-sunucu-kiralama-yazilim-cozumleri.png)
+![Wordpress](https://www.ubilisim.com/wp-content/uploads/2018/04/wordpress-logo.png)
 
-<!--
-**OmerAti/omerati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Merhaba, GitHub Profilime Hoş Geldiniz! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ben Ömer, yazılım geliştirme ve sistem yönetimiyle ilgilenen bir programcıyım. Aşağıda ilgi alanlarım ve becerilerim hakkında daha fazla bilgi bulabilirsiniz.
+
+## Teknolojik Yeteneklerim
+
+### Programlama Dilleri
+- Java
+- PHP
+- C/C++
+- Python
+- CSS
+
+### Yazılım Geliştirme
+- Android Studio
+- WordPress
+- UnrealIRCD
+- Linux
+
+### Sistem Yönetimi
+- Linux (Debian, Ubuntu, CentOS)
+- WHM/cPanel
+- Plesk
+- Sunucu Optimizasyonu
+- Ağ Yönetimi
+
+## İletişim
+- 📧 E-posta: omerati6363@gmail.com veya info@jrodix.com
+- 💬 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/username/)
+- 🌐 Web Sitesi: [Website Adresi](https://www.jrodix.com)
