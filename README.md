@@ -1,5 +1,8 @@
-![JRodix.Com](https://www.jrodix.com/resources/uploads/logo/2024-04-20/jrodix-com-ircd-hosting-web-hosting-vds-sunucu-kiralama-yazilim-cozumleri.png)
-<img src="https://www.ubilisim.com/wp-content/uploads/2018/04/wordpress-logo.png" alt="Profil Resmi" width="100" height="100">
+<img src="https://i.hizliresim.com/m8mbi8i.png" alt="Jrodix.Com" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1200px-WordPress_logo.svg.png" alt="Wordpress" width="100" height="100">
+<img src="https://image.shutterstock.com/image-photo/image-260nw-2321769249.jpg" alt="Android" width="100" height="100">
+<img src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png" alt="Android" width="100" height="100">
+
 
 
 # Merhaba, GitHub Profilime Hoş Geldiniz! 👋
