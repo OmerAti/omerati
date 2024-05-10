@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://i.hizliresim.com/m8mbi8i.png" alt="Jrodix.Com" width="150" height="150">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1200px-WordPress_logo.svg.png" alt="Wordpress" width="150" height="150">
-    <img src="https://image.shutterstock.com/image-photo/image-260nw-2321769249.jpg" alt="Android" width="150" height="150">
-    <img src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png" alt="Linux" width="150" height="150">
+    <img src="https://i.hizliresim.com/m8mbi8i.png" alt="Jrodix.Com" width="200" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1200px-WordPress_logo.svg.png" alt="Wordpress" width="200" height="100">
+    <img src="https://image.shutterstock.com/image-photo/image-260nw-2321769249.jpg" alt="Android" width="200" height="100">
+    <img src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png" alt="Linux" width="200" height="100">
 </p>
 
 
