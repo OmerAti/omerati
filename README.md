@@ -22,7 +22,6 @@ Ben Ömer, yazılım geliştirme ve sistem yönetimiyle ilgilenen bir programcı
 ### Yazılım Geliştirme
 - Android Studio
 - WordPress
-- UnrealIRCD
 - Linux
 
 ### Sistem Yönetimi
