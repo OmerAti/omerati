@@ -49,13 +49,6 @@ Ben **Ömer**, yazılım geliştirme ve sistem yönetimiyle ilgilenen bir progra
 
 ---
 
-## ⏳ GitHub Aktivite Grafiği
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OmerAti&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</p>
-
----
 
 ## 🏆 Katkı Rozetleri
 
